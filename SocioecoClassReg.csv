@@ -107,39 +107,39 @@ Class 8,All ages,Within marriage/civil partnership,10,313370
 Class 8,All ages,Joint registrations same address,20,204576
 Class 8,All ages,Joint registrations different address,20,64027
 Class 8,All ages,Sole registrations,0,31963
-Class 1.1,Under 25,Within marriage/civil partnership,98,16405
-Class 1.1,Under 25,Joint registrations same address,230,44631
-Class 1.1,Under 25,Joint registrations different address,50,22912
-Class 1.1,Under 25,Sole registrations,10,11618
-Class 1.2,Under 25,Within marriage/civil partnership,1023,16405
-Class 1.2,Under 25,Joint registrations same address,1182,44631
-Class 1.2,Under 25,Joint registrations different address,318,22912
-Class 1.2,Under 25,Sole registrations,20,11618
-Class 2,Under 25,Within marriage/civil partnership,2982,16405
-Class 2,Under 25,Joint registrations same address,8175,44631
-Class 2,Under 25,Joint registrations different address,2429,22912
-Class 2,Under 25,Sole registrations,432,11618
-Class 3,Under 25,Within marriage/civil partnership,2195,16405
-Class 3,Under 25,Joint registrations same address,7814,44631
-Class 3,Under 25,Joint registrations different address,3175,22912
-Class 3,Under 25,Sole registrations,854,11618
-Class 4,Under 25,Within marriage/civil partnership,2500,16405
-Class 4,Under 25,Joint registrations same address,4809,44631
-Class 4,Under 25,Joint registrations different address,2966,22912
-Class 4,Under 25,Sole registrations,147,11618
-Class 5,Under 25,Within marriage/civil partnership,1604,16405
-Class 5,Under 25,Joint registrations same address,5029,44631
-Class 5,Under 25,Joint registrations different address,2259,22912
-Class 5,Under 25,Sole registrations,216,11618
-Class 6,Under 25,Within marriage/civil partnership,2539,16405
-Class 6,Under 25,Joint registrations same address,8055,44631
-Class 6,Under 25,Joint registrations different address,4559,22912
-Class 6,Under 25,Sole registrations,1913,11618
-Class 7,Under 25,Within marriage/civil partnership,2303,16405
-Class 7,Under 25,Joint registrations same address,6021,44631
-Class 7,Under 25,Joint registrations different address,4051,22912
-Class 7,Under 25,Sole registrations,854,11618
-Class 8,Under 25,Within marriage/civil partnership,0,16405
-Class 8,Under 25,Joint registrations same address,10,44631
-Class 8,Under 25,Joint registrations different address,10,22912
-Class 8,Under 25,Sole registrations,0,11618
+Class 1.1,24 and under,Within marriage/civil partnership,98,16405
+Class 1.1,24 and under,Joint registrations same address,230,44631
+Class 1.1,24 and under,Joint registrations different address,50,22912
+Class 1.1,24 and under,Sole registrations,10,11618
+Class 1.2,24 and under,Within marriage/civil partnership,1023,16405
+Class 1.2,24 and under,Joint registrations same address,1182,44631
+Class 1.2,24 and under,Joint registrations different address,318,22912
+Class 1.2,24 and under,Sole registrations,20,11618
+Class 2,24 and under,Within marriage/civil partnership,2982,16405
+Class 2,24 and under,Joint registrations same address,8175,44631
+Class 2,24 and under,Joint registrations different address,2429,22912
+Class 2,24 and under,Sole registrations,432,11618
+Class 3,24 and under,Within marriage/civil partnership,2195,16405
+Class 3,24 and under,Joint registrations same address,7814,44631
+Class 3,24 and under,Joint registrations different address,3175,22912
+Class 3,24 and under,Sole registrations,854,11618
+Class 4,24 and under,Within marriage/civil partnership,2500,16405
+Class 4,24 and under,Joint registrations same address,4809,44631
+Class 4,24 and under,Joint registrations different address,2966,22912
+Class 4,24 and under,Sole registrations,147,11618
+Class 5,24 and under,Within marriage/civil partnership,1604,16405
+Class 5,24 and under,Joint registrations same address,5029,44631
+Class 5,24 and under,Joint registrations different address,2259,22912
+Class 5,24 and under,Sole registrations,216,11618
+Class 6,24 and under,Within marriage/civil partnership,2539,16405
+Class 6,24 and under,Joint registrations same address,8055,44631
+Class 6,24 and under,Joint registrations different address,4559,22912
+Class 6,24 and under,Sole registrations,1913,11618
+Class 7,24 and under,Within marriage/civil partnership,2303,16405
+Class 7,24 and under,Joint registrations same address,6021,44631
+Class 7,24 and under,Joint registrations different address,4051,22912
+Class 7,24 and under,Sole registrations,854,11618
+Class 8,24 and under,Within marriage/civil partnership,0,16405
+Class 8,24 and under,Joint registrations same address,10,44631
+Class 8,24 and under,Joint registrations different address,10,22912
+Class 8,24 and under,Sole registrations,0,11618
